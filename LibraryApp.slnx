@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Database/">
+    <File Path="CreateDatabase.sql" />
+  </Folder>
+  <Project Path="LibraryApp.csproj" />
+</Solution>
